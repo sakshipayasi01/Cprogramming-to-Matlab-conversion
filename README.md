@@ -1,1 +1,1 @@
-# Cprogramming-to-Matlab-conversion
+# Cprogramming to Matlab conversion
